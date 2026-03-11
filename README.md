@@ -1,6 +1,10 @@
 <div align="left">
   <h2>Hi 👋! My name is Chaitanya DS Thakur</h2>
-  <p>🕒 Timezone: MDT (Mountain Daylight Time)</p>
+  <p>
+  <a href="https://time.is/MDT" target="_blank">
+    <img src="https://img.shields.io/badge/🕒_Timezone-MDT_(Click_for_local_time)-blue?style=for-the-badge&color=282a36" alt="Timezone Badge" />
+  </a>
+</p>
 </div>
 
 ###
