@@ -38,9 +38,11 @@
   <img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="python" /> <img width="8" />
   <img src="https://img.shields.io/badge/C%23-%23000000?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" /> <img width="8" />
   <img src="https://img.shields.io/badge/C-%23000000?style=for-the-badge&logo=c&logoColor=white" alt="c" /> <img width="8" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%23000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" /> <img width="8" />
   <img src="https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> <img width="8" />
   <img src="https://img.shields.io/badge/R-%23000000?style=for-the-badge&logo=r&logoColor=white" alt="r" /> <img width="8" />
-  <img src="https://img.shields.io/badge/Swift-%23000000?style=for-the-badge&logo=swift&logoColor=white" alt="swift" />
+  <img src="https://img.shields.io/badge/Swift-%23000000?style=for-the-badge&logo=swift&logoColor=white" alt="swift" /> <img width="8" />
+  <img src="https://img.shields.io/badge/RISC--V-%23000000?style=for-the-badge&logo=riscv&logoColor=white" alt="riscv" />
 </div>
 
 <br>
