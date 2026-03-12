@@ -31,7 +31,7 @@
 
 ## Chaitanya.Tech_Stack
 
-### Languages
+### /Languages
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> <img width="8" />
   <img src="https://img.shields.io/badge/TypeScript-%23000000?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> <img width="8" />
@@ -47,7 +47,7 @@
 
 <br>
 
-### Frontend
+### /Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="react" /> <img width="8" />
   <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> <img width="8" />
@@ -60,7 +60,7 @@
 
 <br>
 
-### Backend & Database
+### /Backend & Database
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> <img width="8" />
   <img src="https://img.shields.io/badge/Django-%23000000?style=for-the-badge&logo=django&logoColor=white" alt="django" /> <img width="8" />
@@ -74,7 +74,7 @@
 
 <br>
 
-### Data & Machine Learning
+### /Data & Machine Learning
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-%23000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /> <img width="8" />
   <img src="https://img.shields.io/badge/PyTorch-%23000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" /> <img width="8" />
@@ -86,7 +86,7 @@
 
 <br>
 
-### Tools & Infrastructure
+### /Tools & Infrastructure
 <div align="left">
   <img src="https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=white" alt="git" /> <img width="8" />
   <img src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> <img width="8" />
