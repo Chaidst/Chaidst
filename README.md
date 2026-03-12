@@ -94,6 +94,7 @@
   <img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </div>
 
+
 ## Chaitanya.Insights
 
 <div align="center">
