@@ -17,7 +17,6 @@
 - Reality Transurfing—navigating the space of variations, dropping excess importance, and avoiding pendulums.
 - Studying Ilia Topuria's fight IQ.
 - Always looking to collaborate on innovative open-source projects.
-
 <br><br>
 
 ## Chaitanya.Projects
