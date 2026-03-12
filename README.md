@@ -14,8 +14,8 @@
 ## A Bit About Me
 
 - Computer Science with Specialization at the University of Alberta. I’m particularly drawn to the intersection of Game Theory and software.
-- Studying Ilia Topuria's fight IQ.
 - Reality Transurfing—navigating the space of variations, dropping excess importance, and avoiding pendulums.
+- Studying Ilia Topuria's fight IQ.
 - Always looking to collaborate on innovative open-source projects.
 - <a href="https://time.is/MDT" target="_blank"><img src="https://img.shields.io/badge/🕒_Timezone-MDT_(Click_for_local_time)-white?style=flat-square&color=282a36" alt="Timezone Badge" /></a>
 
