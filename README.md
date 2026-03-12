@@ -5,7 +5,7 @@
   
   <img src="https://github.com/user-attachments/assets/d3f805e4-8e83-4042-a882-69306c3cbc00" height="240" border="4" alt="Chaitanya in Edmonton" />
   
-  <p><i>Braving the Edmonton tundra, one repo at a time. ❄️</i></p>
+  <p><i>Braving the Edmonton tundra, one repo at a time. </i></p>
 </div>
 
 <br>
