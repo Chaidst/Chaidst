@@ -8,7 +8,8 @@
 
 <br>
 
-<img align="right" height="320" src="URL_OF_YOUR_NEW_IMAGE" alt="My Avatar" />
+<img align="right" height="320" src="<img width="3088" height="2316" alt="image" src="https://github.com/user-attachments/assets/bd3dc2b7-bdb8-426d-bf3c-4b85c65891ad" />
+" alt="My Avatar" />
 
 ## A Bit About Me
 
