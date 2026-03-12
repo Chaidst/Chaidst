@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Chaitanya DS Thakur</h1>
   
-  <img src="https://github.com/user-attachments/assets/bd3dc2b7-bdb8-426d-bf3c-4b85c65891ad" height="200" alt="" />
+  <img src="https://github.com/user-attachments/assets/d3f805e4-8e83-4042-a882-69306c3cbc00" height="200" alt="" />
   
   <p><i>Braving the Edmonton tundra, one line of code at a time. ❄️</i></p>
   
