@@ -31,17 +31,68 @@
 
 ## Chaitanya.Tech_Stack
 
+### Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/TypeScript-%23000000?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="react badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="python badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/C%23-%23000000?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" /> <img width="8" />
-  <img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
+  <img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> <img width="8" />
+  <img src="https://img.shields.io/badge/TypeScript-%23000000?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="python" /> <img width="8" />
+  <img src="https://img.shields.io/badge/C%23-%23000000?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" /> <img width="8" />
+  <img src="https://img.shields.io/badge/C-%23000000?style=for-the-badge&logo=c&logoColor=white" alt="c" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> <img width="8" />
+  <img src="https://img.shields.io/badge/R-%23000000?style=for-the-badge&logo=r&logoColor=white" alt="r" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Swift-%23000000?style=for-the-badge&logo=swift&logoColor=white" alt="swift" />
 </div>
 
-<br><br>
+<br>
+
+### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="react" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Vue.js-%23000000?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Angular-%23000000?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> <img width="8" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%23000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" /> <img width="8" />
+  <img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> <img width="8" />
+  <img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+</div>
+
+<br>
+
+### Backend & Database
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Django-%23000000?style=for-the-badge&logo=django&logoColor=white" alt="django" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> <img width="8" />
+  <img src="https://img.shields.io/badge/FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" /> <img width="8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> <img width="8" />
+  <img src="https://img.shields.io/badge/MySQL-%23000000?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> <img width="8" />
+  <img src="https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Firebase-%23000000?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" />
+</div>
+
+<br>
+
+### Data & Machine Learning
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /> <img width="8" />
+  <img src="https://img.shields.io/badge/PyTorch-%23000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" /> <img width="8" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Pandas-%23000000?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img width="8" />
+  <img src="https://img.shields.io/badge/NumPy-%23000000?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /> <img width="8" />
+  <img src="https://img.shields.io/badge/OpenCV-%23000000?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+</div>
+
+<br>
+
+### Tools & Infrastructure
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=white" alt="git" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> <img width="8" />
+  <img src="https://img.shields.io/badge/AWS-%23000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%23000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Azure-%23000000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure" /> <img width="8" />
+  <img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+</div>
 
 ## Chaitanya.Insights
 
