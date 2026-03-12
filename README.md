@@ -3,6 +3,10 @@
 <div align="center">
   <h1>Chaitanya DS Thakur</h1>
   
+  <img src="https://github.com/user-attachments/assets/bd3dc2b7-bdb8-426d-bf3c-4b85c65891ad" height="200" alt="" />
+  
+  <p><i>Braving the Edmonton tundra, one line of code at a time. ❄️</i></p>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=436&lines=Building+Digital+Solutions;Exploring+New+Technologies;Creating+%26+Coding" alt="Typing SVG" />
 </div>
 
