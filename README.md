@@ -47,7 +47,6 @@
 ## Git Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaidst&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaidst&layout=compact&langs_count=5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" alt="languages graph" />
 </div>
 
