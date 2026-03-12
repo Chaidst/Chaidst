@@ -11,7 +11,7 @@
 <br>
 
 
-## A Bit About Me
+## Chaitanya.Me
 
 - Computer Science with Specialization at the University of Alberta. I’m particularly drawn to the intersection of Game Theory and software.
 - Reality Transurfing—navigating the space of variations, dropping excess importance, and avoiding pendulums.
@@ -21,7 +21,7 @@
 
 <br><br>
 
-## Project Showcase
+## Chaitanya.Projects
 
 <div align="left">
   <a href="https://devpost.com/cdstbuys" target="_blank">
@@ -31,7 +31,7 @@
 
 <br><br>
 
-## Core Tech Stack
+## Chaitanya.Tech_Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" /> <img width="8" />
@@ -45,7 +45,7 @@
 
 <br><br>
 
-## Git Insights
+## Chaitanya.Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaidst&layout=compact&langs_count=5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" alt="languages graph" />
@@ -53,7 +53,7 @@
 
 <br><br>
 
-## Connect
+## Chaitanya.Connect
 
 <div align="center">
   <a href="https://instagram.com/chaitanyadsthakur" target="_blank"> <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram logo" /> </a> <img width="12" />
