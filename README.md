@@ -1,7 +1,7 @@
 <hr style="border: 2px solid #555;">
 
 <div align="center">
-  <h1>Chaitanya DS Thakur</h1>
+  <h1>ChaitanyaDSThakur.()</h1>
   
   <img src="https://github.com/user-attachments/assets/d3f805e4-8e83-4042-a882-69306c3cbc00" height="240" border="4" alt="Chaitanya in Edmonton" />
   
