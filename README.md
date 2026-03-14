@@ -13,7 +13,7 @@
 
 ## ChaitanyaDSThakur.Me
 
-- Computer Science with Specialization at the University of Alberta. I’m particularly drawn to the intersection of Game Theory and software.
+- Computer Science with Specialization at the University of Alberta. 
 - Reality Transurfing—navigating the space of variations, dropping excess importance, and avoiding pendulums.
 - Professional Vim hater.
 - Always looking to collaborate on innovative open-source projects.
