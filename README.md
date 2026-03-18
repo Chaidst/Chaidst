@@ -107,11 +107,10 @@
 
 ## ChaitanyaDSThakur.Connect
 
+## ChaitanyaDSThakur.Connect
+
 <div align="center">
-  <a href="https://instagram.com/chaitanyadsthakur" target="_blank"> <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram logo" /> </a> <img width="12" />
-  <a href="https://discordapp.com/users/chaidst" target="_blank"> <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" alt="discord logo" /> </a> <img width="12" />
-  <a href="https://devpost.com/cdstbuys" target="_blank"> <img src="https://img.shields.io/badge/Devpost-ffffff?style=for-the-badge&logo=devpost&logoColor=black" alt="devpost logo" /> </a>
-  <a href="mailto:chaitanyadsthakur@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="email logo" /> </a>
+  <a href="https://instagram.com/chaitanyadsthakur" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/chaidst" target="_blank"><img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black" alt="discord logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://devpost.com/cdstbuys" target="_blank"><img src="https://img.shields.io/badge/Devpost-ffffff?style=for-the-badge&logo=devpost&logoColor=black" alt="devpost logo" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:chaitanyadsthakur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="email logo" /></a>
 </div>
 
 <br>
